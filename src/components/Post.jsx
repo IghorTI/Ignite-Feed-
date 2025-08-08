@@ -27,7 +27,11 @@ export function Post(){
             <p>Fala galeraaa</p>
             <p>Acabei de subir mais um projeto parao GitHub. É um projeto do Ignite da Rocketseate</p>
             <p><a href=''> IghorTI</a></p>
-            <p><a href=''>#novoprojeto #ignite</a></p>
+            <p>
+                <a href=''>#novoprojeto</a> {' '}
+                <a href=''>#ignite</a> {' '}
+                <a href=''>#rocketseat</a>
+            </p>
         </div>
 
        </article>
